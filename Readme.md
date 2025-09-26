@@ -1,8 +1,8 @@
 # React Services List & Details with Redux Saga
 
-[![CI](https://github.com/NMYurchenko-max/ra-saga-main-details/actions/workflows/web.yml/badge.svg)]
+![CI](https://github.com/NMYurchenko-max/ra-saga-main-details/actions/workflows/web.yml/badge.svg)
 
-[🚀 Демо на Render](https://ra-saga-main-details.onrender.com) 
+[🚀 deployment application](https://nmyurchenko-max.github.io/ra-saga-main-details/)
 
 [локально:](http://localhost:5173/ra-saga-main-details/)
 
