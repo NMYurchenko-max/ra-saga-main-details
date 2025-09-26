@@ -1,0 +1,78 @@
+/* Стили для компонента ServiceDetails */
+/* Фон приложения: #121121 */
+
+.details-container {
+  background-color: #121121; /* Темный фон */
+  color: white; /* Белый текст */
+  min-height: 100vh; /* Полная высота экрана */
+  padding: 20px;
+  font-family: Arial, sans-serif;
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.details-container h1 {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.price {
+  font-size: 24px;
+  font-weight: bold;
+  color: #00ff00; /* Зеленый для цены */
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.content {
+  font-size: 18px;
+  line-height: 1.6;
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+.back-button {
+  display: block;
+  margin: 0 auto;
+  padding: 10px 20px;
+  background-color: #28a745; /* Зеленый цвет */
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 16px;
+}
+
+.back-button:hover {
+  background-color: #218838; /* Темнее при наведении */
+}
+
+.spinner {
+  display: block;
+  margin: 50px auto;
+  width: 150px;
+  height: 150px;
+}
+
+.error-message {
+  text-align: center;
+  color: red;
+  font-size: 18px;
+  margin-bottom: 20px;
+}
+
+.retry-button {
+  display: block;
+  margin: 0 auto;
+  padding: 10px 20px;
+  background-color: #007bff; /* Синий цвет */
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 16px;
+}
+
+.retry-button:hover {
+  background-color: #0056b3; /* Темнее при наведении */
+}

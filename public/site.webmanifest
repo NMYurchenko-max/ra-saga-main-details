@@ -1,0 +1,25 @@
+{
+  "name": "React Redux-saga. Main details",
+  "short_name": "Redux-saga",
+  "lang": "ru",
+  "id": ".",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "theme_color": "#f99067",
+  "background_color": "#222A33",
+  "icons": [
+    {
+      "src": "android-chrome-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "android-chrome-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
